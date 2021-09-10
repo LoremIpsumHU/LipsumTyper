@@ -9,7 +9,7 @@ var name = "Luke ter Hark";
 var age = 21;
 var hobbies = ["Gaming", "Series kijken"];
 var special = "Heeft als enige geen middelbare schooldiploma.";
-var OICTReason = "Hou niet van normale schoolsystemen en creatieve vrijheid.";
+var OICTReason = "Hou niet van normale schoolsystemen maar van creatieve vrijheid.";
 
 var luke = new Luke(name, age, hobbies, special, OICTReason);
 
